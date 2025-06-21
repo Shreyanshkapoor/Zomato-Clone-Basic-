@@ -41,7 +41,4 @@ Zomato-Clone/
 │-- Signup.html
 ```
 
-## Contributing
-Feel free to fork the repository and submit pull requests with improvements or bug fixes.
-
 
